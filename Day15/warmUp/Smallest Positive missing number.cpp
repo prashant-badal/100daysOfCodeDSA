@@ -23,5 +23,7 @@
               if(arr[i]<=n)
               return i+1;
           }
-          return n+1;
+          return n+1; 
+
+        //    solved
               

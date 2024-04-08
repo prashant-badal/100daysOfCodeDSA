@@ -2,7 +2,7 @@
 
 char nonrepeatingCharacter(string S)
     {
-       //Your code here
+      
        int temp[256]={0};
        for(int i=0;i<S.length();i++){
            temp[S[i]]++;
